@@ -1,2 +1,6 @@
 # push_beijingfengtai
 Some time ago, I participated in the teacher recruitment in Fengtai District, Beijing, and have been waiting for the results. To obtain first-hand information, I created a push notification program using Codex, so that friends can easily apply to other teacher recruitment websites.
+
+
+根目录/check.php?token=change_me_123456
+这里的token=后面内容替换成你设置的密钥
